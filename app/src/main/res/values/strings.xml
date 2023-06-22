@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lombok Traditional Foods</string>
+    <string name="gambar_makanan">gambar makanan</string>
+    <string name="background_rounded">background rounded</string>
+    <string name="list">List</string>
+    <string name="card_view">Card View</string>
+</resources>
